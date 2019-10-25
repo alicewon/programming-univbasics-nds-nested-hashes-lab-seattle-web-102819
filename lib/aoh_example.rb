@@ -11,7 +11,7 @@ def assembled_aoh
   # Array. Ruby constants are denoted by ALL_CAPS
 
   array = [
-    {:CONSTANTS => test}
+    {:CONSTANTS => CONSTVALUE}
   ]
 end
 
